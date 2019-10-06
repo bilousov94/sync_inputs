@@ -1,4 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# PhpStorm files
+.idea/
+
+# MacOS files
+.DS_Store
 
 # dependencies
 /node_modules
